@@ -15,7 +15,7 @@ There might be some capture the flag or pwn2own attempt scraps here or there.
 
 ### Former ctfer
 (2012-2022)
-- Co-founder of PFS (pwnfirstsearch) with 3 other colleagues
+- Co-founder of PFS ([pwnfirstsearch](https://ctftime.org/team/86357/)) with 3 other colleagues
 - Ghidra dreamer, but IDA still has my heart
 
 ### Former Android and Browser researcher
